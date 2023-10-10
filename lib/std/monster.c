@@ -26,7 +26,7 @@ void create(void) {
          set_gender("female");
          break;
       default:
-         set_gender("unkown");
+         set_gender("unknown");
          break;
    }
 }
